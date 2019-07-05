@@ -1,0 +1,13 @@
+.idea/*
+node_modules/**/*
+.idea/*
+.expo/*
+npm-debug.*
+*.jks
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+web-report/
+.idea/*
